@@ -23,8 +23,8 @@ function Navbar() {
             </span>
           </div>
 
-          <h1 className="ml-4 text-white text-3xl font-bold tracking-wide">
-            SUMIT
+          <h1 className="ml-4 text-white text-2xl font-bold tracking-wide">
+            PORTFOLIO
           </h1>
         </div>
 

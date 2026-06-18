@@ -1,5 +1,6 @@
 import HeroSection from "./components/heroSection";
 import Navbar from "./components/Navbar";
+import AboutSection from "./components/AboutSection";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
 
       <section id="about" className="min-h-screen">
         {/* About */}
+        <AboutSection/>
       </section>
 
       <section id="education" className="min-h-screen">
