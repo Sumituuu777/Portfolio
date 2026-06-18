@@ -36,7 +36,7 @@ import { SiCodechef, SiLeetcode } from "react-icons/si";function ContactSection(
 
           {/* Email */}
           <a
-            href="mailto:your-email@gmail.com"
+            href="mailto:sumit.ydv.kumar2006@gmail.com"
             className="
               bg-[#0E1828]
               border border-white/10
@@ -59,13 +59,13 @@ import { SiCodechef, SiLeetcode } from "react-icons/si";function ContactSection(
             </h3>
 
             <p className="text-gray-400 mt-2 text-center">
-              your-email@gmail.com
+              sumit.ydv.kumar2006@gmail.com
             </p>
           </a>
 
           {/* LinkedIn */}
           <a
-            href="https://linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/in/sumit-kumar-25152a325"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -96,7 +96,7 @@ import { SiCodechef, SiLeetcode } from "react-icons/si";function ContactSection(
 
           {/* GitHub */}
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/Sumituuu777"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -138,7 +138,7 @@ import { SiCodechef, SiLeetcode } from "react-icons/si";function ContactSection(
 
             {/* LeetCode */}
             <a
-              href="https://leetcode.com/your-username"
+              href="https://leetcode.com/u/Sumit_kumar_96/"
               target="_blank"
               rel="noopener noreferrer"
               className="
@@ -171,7 +171,7 @@ import { SiCodechef, SiLeetcode } from "react-icons/si";function ContactSection(
 
             {/* CodeChef */}
             <a
-              href="https://www.codechef.com/users/your-username"
+              href="https://www.codechef.com/users/sumitkumar73"
               target="_blank"
               rel="noopener noreferrer"
               className="
