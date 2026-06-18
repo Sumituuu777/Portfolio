@@ -26,7 +26,7 @@ function AboutSection() {
   return (
     <section
       id="about"
-      className="py-24 px-6 bg-[#07101F]"
+      className="py-6 px-6 bg-[#07101F]"
     >
       <div className="max-w-7xl mx-auto">
 

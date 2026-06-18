@@ -1,6 +1,9 @@
 import HeroSection from "./components/heroSection";
 import Navbar from "./components/Navbar";
 import AboutSection from "./components/AboutSection";
+import ProjectsSection from "./components/ProjectsSection";
+import EducationSection from "./components/EducationSection";
+import ContactSection from "./components/ContactSection";
 
 function App() {
   return (
@@ -26,22 +29,25 @@ function App() {
         </div>
       </section>
 
-      <section id="about" className="min-h-screen">
-        {/* About */}
+      <section id="about" className="m-0 p-0">
         <AboutSection/>
       </section>
 
-      <section id="education" className="min-h-screen">
-        {/* Education */}
+      <section id="education">
+        <EducationSection/>
       </section>
 
-      <section id="projects" className="min-h-screen">
-        {/* Projects */}
+      <section id="projects">
+        <ProjectsSection/>
       </section>
 
-      <section id="contact" className="min-h-screen">
-        {/* Contact */}
+      <section id="contact">
+        <ContactSection/>
       </section>
+
+      <footer className="border-t border-white/10 py-6 text-center text-gray-400">
+        © 2026 Sumit Kumar • Built with React & Tailwind CSS
+      </footer>
     </div>
   );
 }
